@@ -23,6 +23,7 @@ ToDoX, güçlü güvenlik özellikleriyle donatılmış, modern ve şık bir yap
 ### 2️⃣ İndirme ve Çalıştırma (Download & Run)
 ```sh
 git clone https://github.com/pixsel9dev/to-do-list.git
+cd to-do-list-main
 
 🔑 Şifreleme & Güvenlik (Encryption & Security)
 Şifreniz SHA256 ile korunur ve dosyada sadece hash saklanır.
@@ -59,6 +60,7 @@ NuGet Package: MaterialSkin.2.0
 2️⃣ Download & Run
 
 git clone https://github.com/pixsel9dev/to-do-list.git
+cd to-do-list-main
 Open in Visual Studio, install NuGet dependencies, and run the app.
 🔑 Encryption & Security
 Your password is stored securely using SHA256 hashing.
