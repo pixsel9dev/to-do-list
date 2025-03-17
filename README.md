@@ -1,4 +1,4 @@
-# 🔒 ToDoX - Güvenli ve Modern Yapılacaklar Listesi
+# 🔒 Todo List - Güvenli ve Modern Yapılacaklar Listesi
 
 ToDoX, güçlü güvenlik özellikleriyle donatılmış, modern ve şık bir yapılacaklar listesi uygulamasıdır. **PIN yerine artık her türlü şifre kullanabilirsiniz** ve şifreniz **SHA256 algoritmasıyla güvenli bir şekilde saklanır.**  
 
